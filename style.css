@@ -1,0 +1,39 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+.filterContainer {
+    margin: 0px auto;
+    width: 280px;
+    padding-top: 20px;
+}
+.filterContainer input {
+    all:  unset;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+.filterContainer button {
+    all: unset;
+    padding: 10px;
+    background-color: rgb(40, 228, 103);
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.UserContainer {
+    width: 280px;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+.UserContainer > .UserItem {
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 3px 5px 35px rgba(34, 31, 31, 0.1);
+}
