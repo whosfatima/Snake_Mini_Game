@@ -47,7 +47,7 @@ And to be honest, I *enjoyed building it more than playing it.* 😁
 
 ## 🔗 Demo
 
-[👉 Play it here](whosfatima.github.io/mini-box/)
+[👉 Play it here](https://whosfatima.github.io/Snake_Mini_Game/)
 
 ---
 
