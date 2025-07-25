@@ -47,7 +47,7 @@ And to be honest, I *enjoyed building it more than playing it.* 😁
 
 ## 🔗 Demo
 
-[👉 Play it here](YOUR_DEMO_LINK)
+[👉 Play it here](whosfatima.github.io/mini-box/)
 
 ---
 
