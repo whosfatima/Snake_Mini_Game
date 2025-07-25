@@ -2,7 +2,7 @@
 
 A mini snake-like game made with **HTML**, **CSS**, and **JavaScript**, built from scratch with love, logic, and late-night coding. 🧠💪💤
 
-![snake-demo](demo.gif) <!-- می‌تونی این خط رو حذف کنی یا gif خودتو بذاری -->
+![snake-demo](demo.gif)
 
 ---
 
