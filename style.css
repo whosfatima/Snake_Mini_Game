@@ -21,3 +21,9 @@ div{
     left: 50px;
     top: 120px;
 }
+.score{
+ text-align: center;
+ font-family: sans-serif;
+ padding-top: 20px;
+ font-size: 55px;
+}
